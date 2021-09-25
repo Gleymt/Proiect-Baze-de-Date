@@ -15,6 +15,7 @@ Dupa acest pas, se va accesa pagina principala carea acceseaza baza de date. Aic
 tranzactiile avand o cheie comuna cu clientii pentru a se naviga mai usor.
 
 ![meniu](https://github.com/Gleymt/Proiect-Baze-de-Date/blob/images/images/3.png?raw=true)
+
 Angajatul va putea sterge sau modifica fiecare intrare din baza de date.
 
 ![client](https://github.com/Gleymt/Proiect-Baze-de-Date/blob/images/images/4.png?raw=true)</br>
